@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1730672816934
+current_stage: None
+description: null
+last_updated_timestamp: 1730672816934
+name: Best Model
+run_id: 6892e9f6bb4c463f9902de686be5abb3
+run_link: null
+source: file:D:/MLpipeline/MLFLOW_TRACKING_URI/0/6892e9f6bb4c463f9902de686be5abb3/artifacts/model
+status: READY
+status_message: null
+storage_location: file:D:/MLpipeline/MLFLOW_TRACKING_URI/0/6892e9f6bb4c463f9902de686be5abb3/artifacts/model
+user_id: null
+version: 1

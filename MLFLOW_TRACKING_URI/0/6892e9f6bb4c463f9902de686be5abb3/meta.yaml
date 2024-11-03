@@ -1,0 +1,15 @@
+artifact_uri: file:D:/MLpipeline/MLFLOW_TRACKING_URI/0/6892e9f6bb4c463f9902de686be5abb3/artifacts
+end_time: 1730672816964
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6892e9f6bb4c463f9902de686be5abb3
+run_name: amazing-bee-648
+run_uuid: 6892e9f6bb4c463f9902de686be5abb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730672792304
+status: 3
+tags: []
+user_id: ganeshmahadev2463

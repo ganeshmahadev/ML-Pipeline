@@ -33,11 +33,13 @@ Collaboration: DVC and MLflow enable smooth collaboration in a team environment,
 Use Cases:
 Data Science Teams: Teams can use this project setup to track datasets, models, and experiments in a reproducible and organized manner.
 Machine Learning Research: Researchers can quickly iterate over different experiments, track performance metrics, and manage data versions effectively.
+
 Technology Stack:
 Python: The core programming language for data processing, model training, and evaluation.
 DVC: For version control of data, models, and pipeline stages.
 MLflow: For logging and tracking experiments, metrics, and model artifacts.
 Scikit-learn: For building and training the Random Forest Classifier.
+
 This project demonstrates how to manage the lifecycle of a machine learning project, ensuring that data, code, models, and experiments are all tracked, versioned, and reproducible.
 
 ### For Adding Stages
